@@ -16,4 +16,4 @@ Link: https://linkedin-clone-a077e.web.app
 
 
 
-Linkedin Clone - React and Firebase Full Tutorial.
+Linkedin Clone - React and Firebase .
